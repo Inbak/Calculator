@@ -1,0 +1,41 @@
+.body{
+    background-image: linear-gradient(35deg ,rgb(255, 60, 0) , rgb(0, 0, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+   
+}
+.number
+{
+    margin-top: 300px;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+#x{
+    border: none;
+    background: transparent;
+}
+hr{
+    margin-top: 20px;
+}
+.bt
+{
+    position: relative;
+    
+    margin-top: 20px;
+    height: 30px;
+    width:100px;
+    background-color: black;
+    color: aliceblue;
+    /* display: flex; */
+    justify-content: space-between;
+}
+#ans{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-size: x-large;
+}
